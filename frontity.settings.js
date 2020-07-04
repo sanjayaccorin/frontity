@@ -36,7 +36,7 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          api: "http://localhost/wp-frontity/wp-json"
+          api: "https://www.jdc.org/wp-json"
         }
       }
     },
